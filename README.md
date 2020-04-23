@@ -14,7 +14,7 @@ Community made feature requests, patches, localizations, bug reports, and contri
 When contributing please ensure you follow the guidelines below so that we can keep on top of things.
 
 ### Creating Issues
-* If you have any bugs or feature requests, please [create an issue](https://github.com/magnetize-io/wt-clean-blog/issues/new)
+* If you have any bugs or feature requests, please [create an issue](https://github.com/magnetize-io/clean-blog/issues/new)
 * For bug reports, please clearly describe the bug/issue and include steps on how to reproduce it
 * For feature requests, please clearly describe what you would like, how it would be used, and example screenshots (if possible)
 
@@ -30,7 +30,7 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Developers
 * Máximo Sojo
 
-See also [the list of contributors](https://github.com/magnetize-io/wt-clean-blog/graphs/contributors) who participated in this project.
+See also [the list of contributors](https://github.com/magnetize-io/clean-blog/graphs/contributors) who participated in this project.
 
 ## License
 This project is licensed under the GPLv2 License.
